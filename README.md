@@ -7,4 +7,4 @@ To use this extension:
 4- open extensions panel
 5- enable Developer mode
 6- click ok load unpacked 
-7- slect the unziped file
+7- select the unziped file
