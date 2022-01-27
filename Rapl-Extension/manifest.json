@@ -1,7 +1,7 @@
 {
     "manifest_version":2,
     "name":"DHBW-Extension",
-    "description":"With the extension, the style DHBW-Karlshue-Moodle is going to be changed ;)",
+    "description":"With the extension, the style DHBW-Karlshue-Rapla is going to be changed ;)",
     "version":"1.0",
     "icons":{
         "16":"/images/icon-16.png",
