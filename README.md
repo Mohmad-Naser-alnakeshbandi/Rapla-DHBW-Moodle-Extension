@@ -1,4 +1,8 @@
 # **Rapla-DHBW-Moodle-Extension**
+
+# Without the extension vs with the extension 
+
+<img src ="../images/before.PNG">
 </br>
 To use this extension: </br>
 1- you need to download the entire folder </br>
